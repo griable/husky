@@ -17,5 +17,7 @@
   "push-to-checkout",
   "pre-auto-gc",
   "post-rewrite",
-  "sendemail-validate"
+  "sendemail-validate",
+  "post-flow-release-start",
+  "post-flow-release-finish"
 ]
